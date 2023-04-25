@@ -10,17 +10,17 @@ Therefore, we have migrated to the web UI implementation.
 *********************************************************************************************************************************************
 How to start interacting with the front end:
 
-  I) Users can directly launch the application by clicking on the index.html, since it’s the starting point of the application.
+I) Users can directly launch the application by clicking on the index.html, since it’s the starting point of the application.
   
-  II) Then everything is self explanatory where the user can login and search for a destination and can select a car and then make a payment.
+II) Then everything is self explanatory where the user can login and search for a destination and can select a car and then make a payment.
   
- III) However, since we don’t have any backend to store the user data. Users can directly type their name on the username section and any random characters on the password section and can click on the login button.
+III) However, since we don’t have any backend to store the user data. Users can directly type their name on the username section and any random characters on the password section and can click on the login button.
  
-  IV) Also, all the input fields don't have any authentication or verification to check if the value entered in the input fields is right or wrong. This is because it’s a multi page application with no backend support.
+IV) Also, all the input fields don't have any authentication or verification to check if the value entered in the input fields is right or wrong. This is because it’s a multi page application with no backend support.
   
-   V) Therefore, users can click on buttons like “login” “search” “favorite destinations” “sign up” “Send code” and all the other buttons without actually typing anything in the input fields. For example, users can directly click on the search button after login without typing anything in the search box. It still works because it doesn’t have any database to store or retrieve the information.
+V) Therefore, users can click on buttons like “login” “search” “favorite destinations” “sign up” “Send code” and all the other buttons without actually typing anything in the input fields. For example, users can directly click on the search button after login without typing anything in the search box. It still works because it doesn’t have any database to store or retrieve the information.
   
-VI) The button kind of thing that is being displayed on the card info screen are not clickable. It is only for display purposes for the user to check what cards they linked with the app. We clearly mentioned with a text in the app that those button kind of things are not clickable.
+ VI) The button kind of thing that is being displayed on the card info screen are not clickable. It is only for display purposes for the user to check what cards they linked with the app. We clearly mentioned with a text in the app that those button kind of things are not clickable.
 
 **************************************************************************************************************************************************
 
